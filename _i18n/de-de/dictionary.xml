@@ -773,4 +773,8 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="4d90d21642c7222312363da000d7409f" category="inline-link">Zeigen Sie die Liste der im P6-Patch fixierten Fehler an</block>
   <block id="bc5568aec017ad2e5cf0a5e90091f4c6" category="paragraph"><block ref="c6ea3d1829515f9d3bb15b101f831fb6" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
   <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">Die in der nachstehenden Tabelle aufgeführten Bandbreiten entsprechen den dokumentierten AWS Limits für jeden Instanztyp. Diese Einschränkungen stimmen nicht vollständig mit den Funktionen von Cloud Volumes ONTAP ab. Informationen zur erwarteten Leistung finden Sie unter<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>.</block>
+  <block id="890194399bbc46a6d256318488025c18" category="section-title">9.14.1 P7 (29. August 2024)</block>
+  <block id="85575f1cf17c6f7c0cff15bbac0fda4b" category="paragraph">Der 9.14.1 P7 Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="7fa6a95154192207488dcc8bf13f9366" category="inline-link">Zeigen Sie die Liste der im P7-Patch fixierten Fehler an</block>
+  <block id="d02197ad3a3d980855960fa6ac44486e" category="paragraph"><block ref="dfa426c84f3d8dcbde32f8f8c07879b3" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
 </blocks>
