@@ -738,7 +738,6 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="d75c8a72363ede5ded8979310421b255" category="paragraph">Wenn Sie nutzen<block ref="e066b15eeebd4e6d571fd7dd588f94f7" category="inline-link-rx"></block> Innerhalb der VPC, in der Cloud Volumes ONTAP implementiert wird, müssen DNS-Datensätze implementiert werden, die den Datenverkehr an die erforderlich weiterleiten<block ref="e6b10532507a1a1747789a49cf51c637" category="inline-link-rx"></block>.</block>
   <block id="406156e49006d700786c581646d94504" category="paragraph">Das Tiering von Daten aus Cloud Volumes ONTAP in einen Google Cloud Storage Bucket wird derzeit mit Private Service Connect nicht unterstützt.</block>
   <block id="fd03e656adaf90d76d9f033d590bdd69" category="sidebar">In diesen Versionshinweisen werden neue Funktionen, Einschränkungen und bekannte Probleme von Cloud Volumes ONTAP 9.14.1 beschrieben.</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="sidebar">Versionshinweise zu Cloud Volumes ONTAP 9.14.1</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">Los geht's</block>
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Was ist neu</block>
   <block id="8efc36afc2e7202a9c9bda00b8e8a75d" category="sidebar">Übersicht über die Lizenzierung</block>
@@ -785,4 +784,8 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="4b99ccc66c896711e2667fd1c7cc5a70" category="inline-link">Zeigen Sie die Liste der im P9-Patch fixierten Fehler an</block>
   <block id="fb8ea0e4d51a0d0169a671ee181b9aaf" category="paragraph"><block ref="2b0276e874ba4b91c515b88422e5a6f6" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
   <block id="f1786ba391739a1a365a117fb19de2ea" category="sidebar">Versionshinweise zu Cloud Volumes ONTAP 9.14.1</block>
+  <block id="dcfb927b1f6b73f1bfaae1d56a4950bf" category="section-title">9.14.1 P10 (20. Januar 2025)</block>
+  <block id="78571fb34d82664f7485b0ab5ac3147e" category="paragraph">Der 9.14.1 P10 Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="7c8ff86b41b72d8fa99855f2e2c45139" category="inline-link">Zeigen Sie die Liste der im P10-Patch fixierten Fehler an</block>
+  <block id="59bb8174658546e00a502e06d274f287" category="paragraph"><block ref="fe45cd9e277846676a08a57720dc0074" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
 </blocks>
