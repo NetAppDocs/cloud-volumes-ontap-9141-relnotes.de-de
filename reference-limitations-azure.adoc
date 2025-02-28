@@ -41,4 +41,4 @@ Bei der Erstellung eines Volumes mit BlueXP können Sie sich für keine Storage-
 
 HA-Paare werden in einigen Regionen nicht unterstützt.
 
-https://cloud.netapp.com/cloud-volumes-global-regions["Zeigen Sie die Liste der unterstützten Azure Regionen an"^].
+https://bluexp.netapp.com/cloud-volumes-global-regions["Zeigen Sie die Liste der unterstützten Azure Regionen an"^].
