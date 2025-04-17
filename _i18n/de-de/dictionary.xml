@@ -794,4 +794,8 @@ HA-Paare: 18 in einem Knoten ^1^</block>
   <block id="0ca5637d58b3091aee2c805b574d9b5b" category="paragraph">Der 9.14.1 P11 Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
   <block id="4d51ff14f4691186785e9ce841b8db7c" category="inline-link">Zeigen Sie die Liste der im P11-Patch fixierten Fehler an</block>
   <block id="e388af5805a8702dc322460fd1cdc0c7" category="paragraph"><block ref="629011122d078f715e821ec2982a064c" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
+  <block id="6875454ef343b5896a7cd18816df2706" category="section-title">9.14.1 P12 (17. April 2025)</block>
+  <block id="495d780655aafad9cdc63ad43c4708ab" category="paragraph">Der 9.14.1 P12 Patch ist jetzt für Cloud Volumes ONTAP für alle Cloud Provider verfügbar. BlueXP fordert Sie auf, Ihre vorhandenen Systeme auf diese Patch-Version zu aktualisieren.</block>
+  <block id="8a1258bf37cf0340b92dd9f9ca39acfa" category="inline-link">Sehen Sie sich die Liste der Fehler an, die im P12-Patch behoben wurden</block>
+  <block id="477ce4e27c1b6137a153a6e12cfa3c90" category="paragraph"><block ref="f0e84c66d7347cef5d4f5a78d35c3b77" category="inline-link-rx"></block> (Anmeldung auf der NetApp Support-Website erforderlich).</block>
 </blocks>
